@@ -1,0 +1,5 @@
+ID, Description, Amount, Category, CreatedAt
+2, Netflix Subscription, 15, 2024-09-23T13:16:08.268Z, Entertainment.join('
+),3, Groceries, 150, 2024-09-23T14:01:57.558Z, Food.join('
+),4, Netflix Subscription, 15, 2024-09-23T14:01:57.837Z, Entertainment.join('
+)
